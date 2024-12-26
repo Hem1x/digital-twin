@@ -28,7 +28,6 @@
 # Пакеты NuGet
 *.nupkg
 *.snupkg
-packages/
 .nuget/
 project.lock.json
 project.fragment.lock.json
@@ -68,4 +67,3 @@ desktop.ini
 
 Library/
 Temp/
-Packages/
