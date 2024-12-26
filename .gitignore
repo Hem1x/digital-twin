@@ -1,0 +1,71 @@
+# Временные файлы пользователя
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Сборочные и временные файлы
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Oo]ut/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.ilk
+*.idb
+*.lib
+*.log
+*.vspscc
+*.vssscc
+*.tmp
+*.csproj.user
+*.vcxproj.user
+*.builds
+
+# Пакеты NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Файлы для тестирования
+*.testresults
+*.trx
+*.coverage
+*.coveragexml
+_UpgradeReport_Files/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Конфигурационные файлы IDE
+*.ide
+
+# Файлы настройки или локального кеша
+*.DS_Store
+*.log
+*.env
+*.config
+*.config.dev
+*.config.local
+
+# Rider
+.idea/
+*.sln.iml
+
+# OS специфичные файлы
+Thumbs.db
+desktop.ini
+
+Library/
+Temp/
+Packages/

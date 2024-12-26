@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="time_drive_fon_vuforia" size="0.220000 0.324424" />
+  </Tracking>
+</QCARConfig>
